@@ -56,7 +56,6 @@ Here are the technologies and tools I've been working with:
 
 ### 📊 My GitHub Stats
 
-*(These stats update automatically, just change `[YOUR_GITHUB_USERNAME]`)*
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NotShin1&show_icons=true&locale=en&theme=dracula" alt="NotShin1" />
@@ -74,6 +73,10 @@ Here are the technologies and tools I've been working with:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nam-nguyen-tran-nhat-a6bbb9365/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Nhat Nam" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Nguyen Tran Nhat Nam" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.facebook.com/sh1n.mav1s/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nhat Nam" height="30" width="40" />
   </a>
 </p>
