@@ -69,14 +69,15 @@ Here are the technologies and tools I've been working with:
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect with Me</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nam-nguyen-tran-nhat-a6bbb9365/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Nguyen Tran Nhat Nam" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Nhat Nam" height="30" width="40" />
+    <strong>Nguyen Tran Nhat Nam</strong>
   </a>
-  
-  <a href="https://www.facebook.com/sh1n.mav1s/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nhat Nam" height="30" width="40" />
-  </a>
+
+  <br> <br> <a href="https://www.facebook.com/sh1n.mav1s/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <strong>Nhat Nam</strong> </a>
 </p>
