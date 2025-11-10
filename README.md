@@ -71,4 +71,12 @@ Here are the technologies and tools I've been working with:
 
 ### 🤝 Connect with Me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourProfile-blue?logo=linkedin&logoColor=white)](linkedin.com/in/nam-nguyen-tran-nhat-a6bbb9365/?skipRedirect=true)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nam-nguyen-tran-nhat-a6bbb9365/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://www.facebook.com/sh1n.mav1s/" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
